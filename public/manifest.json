@@ -1,0 +1,27 @@
+{
+  "name": "yosaPARK",
+  "short_name": "yosaPARK",
+  "description": "自然の恵みで心と体を癒す、伝統的なよもぎ蒸しサロン",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf2f8",
+  "theme_color": "#ec4899",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/hero/yosa-image-w1600.jpg",
+      "sizes": "1600x900",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/hero/yosa-image-w1600.jpg",
+      "sizes": "1600x900",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["health", "lifestyle", "wellness"],
+  "lang": "ja",
+  "dir": "ltr"
+} 
